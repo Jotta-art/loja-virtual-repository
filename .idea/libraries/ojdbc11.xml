@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="ojdbc11">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Música/ojdbc11-full/ojdbc11.jar!/" />
+      <root url="jar://$USER_HOME$/Música/ojdbc11-full/ons.jar!/" />
+      <root url="jar://$USER_HOME$/Música/ojdbc11-full/oraclepki.jar!/" />
+      <root url="jar://$USER_HOME$/Música/ojdbc11-full/orai18n.jar!/" />
+      <root url="jar://$USER_HOME$/Música/ojdbc11-full/osdt_cert.jar!/" />
+      <root url="jar://$USER_HOME$/Música/ojdbc11-full/osdt_core.jar!/" />
+      <root url="jar://$USER_HOME$/Música/ojdbc11-full/rsi.jar!/" />
+      <root url="jar://$USER_HOME$/Música/ojdbc11-full/simplefan.jar!/" />
+      <root url="jar://$USER_HOME$/Música/ojdbc11-full/ucp.jar!/" />
+      <root url="jar://$USER_HOME$/Música/ojdbc11-full/xdb.jar!/" />
+      <root url="jar://$USER_HOME$/Música/ojdbc11-full/xmlparserv2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

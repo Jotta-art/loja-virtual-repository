@@ -11,7 +11,7 @@ public class TestaInsercaoComProduto {
 
         try (Connection connection = new ConnectionFactory().criaConexao()) {
 
-            String sql = "INSERT INTO PRODUTO_LOJA_VIRTUAL (ID, NOME, DESCRICAO) VALUES (?, ?, ?)";
+            String sql = "INSERT INTO PRODUTO (ID, NOME, DESCRICAO) VALUES (?, ?, ?)";
 
             try (PreparedStatement pstm = connection.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS)) {
                 pstm.setInt(1, comoda.getId());
